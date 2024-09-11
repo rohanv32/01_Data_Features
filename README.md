@@ -46,6 +46,3 @@ Weather in Heathrow: Overcast
 Precipitation Probability: 30.0%
 Wind Speed: 10.0 mph
 ```
-
-## **Note**
-This is a simple prototype intended for educational purposes. In a real-world application, additional features such as a user interface, detailed weather forecasts, real-time updates, multiple flights, and more robust error handling would be implemented.
